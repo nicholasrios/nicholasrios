@@ -4,3 +4,4 @@
 
 - 📫 How to reach me: nicholas.riosm@gmail.com
 
+My Tableau profile: https://public.tableau.com/app/profile/nicholas.rios4495#!/?newProfile=&activeTab=0
